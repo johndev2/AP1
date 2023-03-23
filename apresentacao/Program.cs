@@ -29,6 +29,11 @@ class Programa
         Console.ReadKey();
     }
 }
+
+
+
+
+
 // Code Smells:
 
 // Falta de nomes de variáveis descritivos.

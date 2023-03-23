@@ -1,0 +1,8 @@
+C:\Users\johnv\source\repos\apresentacao\bin\Debug\apresentacao.exe.config
+C:\Users\johnv\source\repos\apresentacao\bin\Debug\apresentacao.exe
+C:\Users\johnv\source\repos\apresentacao\bin\Debug\apresentacao.pdb
+C:\Users\johnv\source\repos\apresentacao\obj\Debug\apresentacao.csproj.AssemblyReference.cache
+C:\Users\johnv\source\repos\apresentacao\obj\Debug\apresentacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\johnv\source\repos\apresentacao\obj\Debug\apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\johnv\source\repos\apresentacao\obj\Debug\apresentacao.exe
+C:\Users\johnv\source\repos\apresentacao\obj\Debug\apresentacao.pdb
